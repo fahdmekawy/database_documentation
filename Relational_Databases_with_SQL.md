@@ -115,4 +115,4 @@ WHERE employee_id = 6;
 ---
 
 This documentation covers basic SQL commands for data definition and manipulation. You can expand on these examples as you delve deeper into SQL.
-```
+
