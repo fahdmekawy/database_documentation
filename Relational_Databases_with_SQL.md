@@ -1,4 +1,3 @@
-```markdown
 # SQL Notes
 
 ## Data Definition Language (DDL)
@@ -67,6 +66,9 @@ DROP COLUMN email;
 TRUNCATE TABLE employees;
 ```
 
+Here is the updated README section including the additional Data Manipulation Language (DML) notes:
+
+```markdown
 ## Data Manipulation Language (DML)
 
 Learn how to use SQL commands to manipulate data in a database.
@@ -89,6 +91,32 @@ VALUES (1, 'Fahd', 'Mekawy', 50.0, '2022-07-19'),
 INSERT INTO employees (employee_id, first_name, last_name)
 VALUES (1, 'Fahd', 'Mekawy');
 ```
+
+### Update Data in a Table
+```sql
+UPDATE employees
+SET hourly_pay = 10.25
+WHERE employee_id = 6;
+```
+
+### Update Multiple Columns in a Record
+```sql
+UPDATE employees
+SET hourly_pay = 10.25, hire_date = '2020-02-12'
+WHERE employee_id = 6;
+```
+> **Note:** If you do not specify a `WHERE` clause, the update will apply to all records in the table.
+
+### Delete a Specific Record
+```sql
+DELETE FROM employees
+WHERE employee_id = 6;
+```
+
+---
+
+This section provides examples of SQL commands to insert, update, and delete records in a database table. Feel free to modify these commands to suit your use case.
+
 
 ---
 
