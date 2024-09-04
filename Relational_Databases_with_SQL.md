@@ -1,7 +1,3 @@
-
-```md
-# SQL Notes
-
 ## Data Definition Language (DDL)
 
 Learn SQL commands to define the structure of a database table and how to apply data types and constraints to columns.
