@@ -109,18 +109,6 @@ Structured Query Language (SQL) is the standard language for interacting with re
 
 Understanding the fundamentals of databases is crucial for designing and implementing effective data management systems. This documentation covers the basics of databases, their types, and core concepts, providing a strong foundation for further exploration and practical application.
 
-For more in-depth learning, refer to the resources provided or explore the specific sections within this repository.
-
----
-
-## Resources
-
-- [Database Management Systems by Raghu Ramakrishnan and Johannes Gehrke](https://www.db-book.com/)
-- [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/)
-- [NoSQL Databases Explained](https://www.mongodb.com/nosql-explained)
-- [Relational Databases vs NoSQL: What’s the Difference?](https://www.digitalocean.com/community/tutorials/relational-databases-vs-nosql)
-
----
 
 ## Contributing
 
