@@ -261,4 +261,3 @@ SELECT * FROM employees UNION SELECT * FROM students;
 SELECT * FROM employees UNION ALL SELECT * FROM students;
 ```
 - Combine the result sets of two `SELECT` queries using `UNION` and `UNION ALL`.
-```
