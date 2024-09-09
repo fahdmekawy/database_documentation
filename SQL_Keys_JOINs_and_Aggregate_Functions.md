@@ -82,10 +82,3 @@ SELECT * FROM transactions;
 ```
 This ensures that the `customer_id` in the `transactions` table corresponds to a valid `customer_id` in the `customers` table.
 
-## Conclusion
-Understanding and using **Primary Keys** and **Foreign Keys** effectively is essential for creating robust and relational databases. Primary keys uniquely identify records within a table, while foreign keys establish and enforce relationships between tables. Together, they play a critical role in maintaining data integrity and supporting complex queries across related tables.
-
-For more detailed information and advanced usage, consider exploring topics such as indexing, normalization, and SQL join operations.
-```
-
-You can copy and paste this content into your `README.md` file in your GitHub repository to describe the concepts of Primary Keys and Foreign Keys in SQL. This document is structured to be informative and provides examples to help readers understand how to implement these concepts in their own databases.
