@@ -81,10 +81,6 @@ SELECT * FROM transactions;
 ```
 This ensures that the `customer_id` in the `transactions` table corresponds to a valid `customer_id` in the `customers` table.
 
-Sure! Below is a `README.md` file that explains the concept of SQL JOINs, including examples of different types of joins.
-
-
-
 ## SQL JOINs
 
 In SQL, a **JOIN** is used to combine rows from two or more tables based on a related column between them. By using JOINs, you can retrieve data from multiple tables in a single query, making it easier to work with related data.
