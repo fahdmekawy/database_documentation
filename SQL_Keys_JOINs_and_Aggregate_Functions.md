@@ -83,7 +83,6 @@ This ensures that the `customer_id` in the `transactions` table corresponds to a
 
 Sure! Below is a `README.md` file that explains the concept of SQL JOINs, including examples of different types of joins.
 
-```
 
 
 ## SQL JOINs
