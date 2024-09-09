@@ -89,14 +89,6 @@ Structured Query Language (SQL) is the standard language for interacting with re
 - **Data Query Language (DQL)**: Commands to query and retrieve data (e.g., `SELECT`).
 - **Data Control Language (DCL)**: Commands to control access to data (e.g., `GRANT`, `REVOKE`).
 
-## Use Cases of Databases
-
-1. **E-commerce**: Managing product catalogs, customer data, and orders.
-2. **Healthcare**: Storing patient records, appointment schedules, and medical histories.
-3. **Banking**: Handling transactions, account details, and customer information.
-4. **Social Media**: Managing user profiles, posts, and interactions.
-5. **Big Data Analytics**: Storing and analyzing vast amounts of data for insights and decision-making.
-
 ## Best Practices for Database Design
 
 1. **Define Clear Data Requirements**: Understand the data requirements before designing the database schema.
@@ -108,9 +100,4 @@ Structured Query Language (SQL) is the standard language for interacting with re
 ## Conclusion
 
 Understanding the fundamentals of databases is crucial for designing and implementing effective data management systems. This documentation covers the basics of databases, their types, and core concepts, providing a strong foundation for further exploration and practical application.
-
-
-## Contributing
-
-Contributions to this repository are welcome! Please fork the repository and submit a pull request with your improvements or additions.
 
