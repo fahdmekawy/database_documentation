@@ -1,7 +1,5 @@
 ## Data Definition Language (DDL)
 
-Learn SQL commands to define the structure of a database table and how to apply data types and constraints to columns.
-
 ```sql
 CREATE TABLE employees (
 	employee_id INT,
